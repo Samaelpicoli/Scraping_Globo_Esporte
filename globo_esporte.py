@@ -9,7 +9,7 @@ class ScrapingGloboEsporte:
    
     """
     Classe para realizar scraping de notícias de um time de 
-    utebol no site Globo Esporte.
+    futebol no site Globo Esporte.
     """
     
     def __init__(self, time):
